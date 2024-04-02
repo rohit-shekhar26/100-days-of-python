@@ -1,6 +1,6 @@
 # Tip Calculator
 
-print("Welcome to the Tip Calculator")
+print("Welcome to the Tip Calculator.")
 
 base_bill = ""
 tip = ""
